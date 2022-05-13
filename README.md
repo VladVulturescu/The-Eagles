@@ -8,3 +8,5 @@ Nume Echipa: The Eagles
 
 Membrii: Vlad Vulturescu, Victor Vulturescu
 
+Aici puteti gasi pitch-ul nostru: https://youtu.be/F7MNPY9WZi8
+
