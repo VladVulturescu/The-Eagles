@@ -1,6 +1,6 @@
 # The-Eagles
 
-Scoala: Liceul teoretic bilingv Miguel de Cervantes, Colegiul Tehnic de aeronautica Henry Coanda
+Scoala: Liceul teoretic bilingv Miguel de Cervantes, Colegiul Tehnic de Aeronautica Henry Coanda
 
 Liceu
 
